@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PermissionExampleBoomUser</string>
+    <string name="start_boom">Start BOOM</string>
+</resources>
